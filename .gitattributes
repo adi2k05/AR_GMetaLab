@@ -9,3 +9,6 @@
 *[[:space:]].controller filter=lfs diff=lfs merge=lfs -text
 *[[:space:]].wav filter=lfs diff=lfs merge=lfs -text
 *[[:space:]].mp3 filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text
+*.date filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
